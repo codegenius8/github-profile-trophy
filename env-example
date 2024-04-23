@@ -1,4 +1,4 @@
-GITHUB_TOKEN1=
+GITHUB_TOKEN1=test
 GITHUB_TOKEN2=
 GITHUB_API=https://github.example.com/api/graphql
 ENABLE_REDIS=
